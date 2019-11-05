@@ -29,5 +29,5 @@ ReactDOM.render(
 // Learn more about service workers: https://bit.ly/CRA-PWA
 // 客户端渲染
 serviceWorker.unregister();
-// 同构，服务端渲染，加载更快
+// 离线应用，服务端渲染，加载更快
 // serviceWorker.register();

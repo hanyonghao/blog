@@ -88,7 +88,6 @@
     <Compile Include="Server\Args\Base\GetRequestBase.cs" />
     <Compile Include="Server\Args\Base\CountRequestBase.cs" />
     <Compile Include="Server\Args\Base\PageRequestBase.cs" />
-    <Compile Include="Server\Args\WxArgs.cs" />
     <Compile Include="Server\Args\NewsArgs.cs" />
     <Compile Include="Server\Args\UserArgs.cs" />
     <Compile Include="Server\Args\WebLoaderArgs.cs" />

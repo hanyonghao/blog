@@ -13,7 +13,7 @@ namespace WebLoader
 {
     class Program
     {
-        static ServerDataManager serverDataManager = new ServerDataManager("http://localhost:5000/");
+        static ServerDataManager serverDataManager = new ServerDataManager("http://192.168.1.163:5000/");
         /// <summary>
         /// 线程列表
         /// </summary>
